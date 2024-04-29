@@ -2,7 +2,7 @@
 
 Space Invaders game that was created with HTML/CSS and JavaScript
 
-### Play Space Invaders [here](https://kimdaby.github.io/Tic-Tac-Toe/)
+### Play Space Invaders [Here](https://kimdaby.github.io/Space-Invader-Game/)
 
 ![SpaceInvaders](SpaceInvader.png)
 
